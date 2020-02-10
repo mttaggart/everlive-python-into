@@ -1,6 +1,6 @@
-Jean-Luc Picard
-William Riker
-Geordi LaForge
-Data Noonien Soong
-Deanna Troi
-Beverly Crusher
+jean-Luc Picard
+William RIKER
+geoRDI LaForge
+Data NOONIEN soong
+Deanna troi
+bEvERly cRUSher
